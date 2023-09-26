@@ -1,6 +1,15 @@
 i am shaikh junaid
 i am from khandair
 i am a full stack devlopers
+<<<<<<< HEAD
 i am a cricket bats man 
 i am a gym work out in gym
   
+=======
+<<<<<<< HEAD
+i am a gym trainer any one intrested contact me
+my personal assistant mobile number 8793100811 
+=======
+ Full Stack Developers work in the IT department of a company performing both front- and back-end operations on websites and computer systems. They design front-end website architecture and work closely with the Graphic Designers in the company to ensure website applications collaborate well with their design elements.
+
+>>>>>>> 2abc2435037ebcd5d7f4eb4161d1725d9f12256b
