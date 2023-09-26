@@ -1,5 +1,10 @@
 i am shaikh junaid
 i am from khandair
 i am a full stack devlopers
+<<<<<<< HEAD
 i am a gym trainer any one intrested contact me
 my personal assistant mobile number 8793100811 
+=======
+   .kfvjlfkvvnvnvnvnnnv
+>>>>>>> 90b3f999b8e45d69cb245cecef08edf18cfb9ffa
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBQPIGtQzEieXecimnEnNWIohTZD4NkLjyNYSuw+4+04 smartjunaid9823@gmail.com
